@@ -4,7 +4,7 @@
 			<div class="panel panel-warning">
 				<div class="panel-heading">菠萝的去噪处理</div>
 				<div class="panel-body">
-					<img src="../../../image/图片6.png" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/图片6_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 			</div>
 		</div>

@@ -4,7 +4,7 @@
 			<div class="panel panel-default">
 				<div class="panel-heading">菠萝的三维重建</div>
 				<div class="panel-body">
-					<img src="../../../image/pina.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/pina_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 			</div>
 		</div>

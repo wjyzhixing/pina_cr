@@ -4,28 +4,28 @@
 			<div class="panel panel-danger">
 				<div class="panel-heading">菠萝的数据采集过程</div>
 				<div class="panel-body col-md-3">
-					<img src="../../../image/p1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p2.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p3.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p4.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p1_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p2_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p3_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p4_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 				<div class="panel-body col-md-3">
-					<img src="../../../image/p5.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p6.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p7.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p8.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p5_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p6_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p7_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p8_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 				<div class="panel-body col-md-3">
-					<img src="../../../image/p9.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p10.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p11.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p12.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p9_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p10_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p11_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p12_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 				<div class="panel-body col-md-3">
-					<img src="../../../image/p13.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p14.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p15.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
-					<img src="../../../image/p16.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p13_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p14_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p15_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
+					<img src="../../../image/p16_1.jpg" class="img-responsive img-rounded img-thumbnail" alt="me">
 				</div>
 			</div>
 		</div>
