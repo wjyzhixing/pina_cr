@@ -1,5 +1,5 @@
 <template>
-	<div class="row">
+	<div class="testContainer">
 		<div class="col-sm-12">
 			<div class="panel panel-default">
 				<div class="panel-heading">菠萝的三维重建</div>
@@ -8,10 +8,7 @@
 				</div>
 			</div>
 		</div>
-
-
-	</div>
-
+    </div>
 </template>
 
 <script>
@@ -20,7 +17,7 @@ export default{
 }
 </script>
 
-<style lang="less" scoped>
+<style lang="less">
 .row{
 	.panel-body{
 		text-align:center;
@@ -28,9 +25,14 @@ export default{
 	.skill{
 		text-align:center;
 	}
+	.panel-heading{
+		font-size: 20px;
+		text-align: center;
+		text-shadow: 2px 1px #fff;
+	}
 }
 
 img{
-	width: 70%;
+	width: 80%;
 }
 </style>

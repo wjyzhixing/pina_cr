@@ -1,40 +1,14 @@
 <template>
-<div class="testContainer">
-	<div class="header">
-		<div>
-			<span>Home</span>
-			<span>Pen</span>			
+	<div class="testContainer">
+		<div class="col-sm-12">
+			<div class="panel panel-warning">
+				<div class="panel-heading">菠萝的去噪处理</div>
+				<div class="panel-body">
+					<img src="../../../image/图片6.png" class="img-responsive img-rounded img-thumbnail" alt="me">
+				</div>
+			</div>
 		</div>
-		<div>
-			<span>Stack</span>
-			<span>Connection</span>			
-		</div>
-		<div>
-			<span>Feed</span>
-			<span>File-play</span>			
-		</div>
-		<div>
-			<span>Lifebuoy</span>
-			<span>Phone</span>			
-		</div>
-		<div>
-			<span>Phont-hang-up</span>
-			<span>Bell</span>
-		</div>
-		<div>
-			<span>Stopwatch</span>
-			<span>Printer</span>
-		</div>
-		<div>
-			<span>Drawer</span>
-			<span>User-minus</span>
-		</div>
-		<div>
-			<span>Spinner</span>
-			<span>Load-run</span>
-		</div>
-	</div>	
-</div>
+    </div>
 </template>
 
 <script>
@@ -65,7 +39,14 @@
 			font-family: "icomoon";
 		}
 	}
-
+	
+	.panel-body{
+		text-align:center;
+	}
+	
+	img{
+		width: 50%;
+	}
 }
 
 </style>
